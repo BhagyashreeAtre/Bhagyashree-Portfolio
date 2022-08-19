@@ -1,0 +1,12 @@
+1.Projects
+2.Skills
+	a.Technology skills,Languages-C,Python,etc,Db,version control
+	b.Interpersonal skills-Communication,Project management,etc.
+3.Contact info-LinkedIn,Mobile,Email,Github
+4.Resume downloadable
+5.About me section with my picture
+6.Logo 
+7.Tagline
+8.Add blog if possible
+9.Education Qualification
+10.Internship details
